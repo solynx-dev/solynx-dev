@@ -9,7 +9,7 @@ I sponsor useful, focused projects around automation, gaming tools, and creative
 - Self-hosted hardware improvements 
 
 ### Tech I Like
-`Proxmox` • `Docker` • `NGINX` • `Tailscale` • `Netbird` (for remote access to my homelab)
+`Proxmox` • `Docker` • `Pangolin` • `Tailscale` • `Netbird` (for remote access to my homelab)
 
 ### Connect
 [Website](https://solynx.gg) • [YouTube](https://youtube.com/@esolynx) • [Discord](https://discord.gg/nether)
